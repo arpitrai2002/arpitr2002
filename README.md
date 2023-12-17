@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Arpit Rai</h1>
-<h3 align="center">A Dedicated and highly motivated Computer Science and Engineering student.💻💸</h3>
+<h1 align="">Hi 👋, I'm Arpit Rai</h1>
+<h3 align="">A Dedicated and highly motivated Computer Science and Engineering student.💻💸</h3>
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="Cooding">
+
 
 <p align="center">
 🌱 I’m currently learning <b>R and DataScience</b>
